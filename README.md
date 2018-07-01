@@ -10,7 +10,7 @@ CarbonoidSpool is designed for 850 g refill coils. I also made a bigger version 
 ![CarbonoidSpool](https://raw.githubusercontent.com/Carbonoid/CarbonoidSpool/master/Fotos/IMG_1536.jpg)
 
 ## Print statistics of the 3 alternative designs
-Sliced with Simplify3D 4.0 and printed with PLA filament on a Carbonoid D1 Delta 3D Printer.
+Sliced with Simplify3D 4.0 and printed with PLA filament on a **Carbonoid D1** Delta 3D Printer.
 100 mm/s max. printing speed and 200 mm/s travel speed.
 
 ### Carbonoid Spool 850 material usage @ 0.3mm, 15% infill
