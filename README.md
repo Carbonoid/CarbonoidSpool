@@ -14,43 +14,42 @@ Sliced with Simplify3D 4.0 and printed with PLA filament on a Carbonoid D1 Delta
 100 mm/s max. printing speed and 200 mm/s travel speed.
 
 ### Carbonoid Spool 850 material usage @ 0.3mm, 15% infill
-**One half**
+**One half**  
 Build time: 4 hours 11 minutes  
-Plastic weight: 115 g (0.25 lb)
+Plastic weight: 115 g (0.25 lb)  
 
-**Total**
+**Total**  
 Build time: 8 hours 22 minutes  
-Plastic weight: 230 g (0.50 lb)
+Plastic weight: 230 g (0.50 lb)  
 
 ### Carbonoid Spool 1000 material usage @ 0.3mm, 15% infill
-**One half**
+**One half**  
 Build time: 4 hours 42 minutes  
-Plastic weight: 128 g (0.28 lb)
+Plastic weight: 128 g (0.28 lb)  
 
 **Total**
 Build time: 9 hours 24 minutes
 Plastic weight: 256 g (0.56 lb)
 
 ### SlantSpool material usage @ 0.3mm, 15% infill
-*One half*
+**One half**  
 Build time: 4 hours 27 minutes  
-Plastic weight: 124 g (0.27 lb)
+Plastic weight: 124 g (0.27 lb)  
 
-**Total**
+**Total**  
 Build time: 8 hours 54 minutes  
-Plastic weight: 248.00 g (0.54 lb)
+Plastic weight: 248.00 g (0.54 lb)  
 
 ### MasterSpool V4 material usage @ 0.3mm, 15% infill
-**Part A**
+**Part A**  
 Build time: 6 hours 28 minutes  
-Plastic weight: 185 g (0.40 lb)
+Plastic weight: 185 g (0.40 lb)  
 
-**Part B**
-Build time: 3 hours 48 minutes
-Plastic weight: 102 g (0.23 lb)
+**Part B**  
+Build time: 3 hours 48 minutes  
+Plastic weight: 102 g (0.23 lb)  
 
-**Total**
-Build time: 10 hours 16 minutes
-Plastic weight: 287 g (0.63 lb)
-
+**Total**  
+Build time: 10 hours 16 minutes  
+Plastic weight: 287 g (0.63 lb)  
 
