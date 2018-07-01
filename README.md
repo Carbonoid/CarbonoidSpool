@@ -5,7 +5,7 @@ https://www.thingiverse.com/thing:2850604
 This spool prints super easy, faster than the original MasterSpool (https://www.thingiverse.com/thing:2769823) and uses less raw filament. There’s only one part in the design you have to print twice. The two halfs of the spool connect with a simple latching system. Unfortunately the SlantSpool is designed for 1 kg refill coils so the 850 g refill coils available in Europe don’t work well on it.
 
 The CarbonoidSpool is a hybrid of MasterSpool and SlantSpool. It uses the same latching system like the SlantSpool (which I had to clone in Fusion360 because only the STL files are available). Every spool half has 6 filament attachment points for a total of 12! per CarbonoidSpool. It works with 1.75 and 3 mm filament. There’s also a place for the sticker that comes with the filament refills to label the spool properly.
-CarbonoidSpool is designed for the 850 g refill coils. I also made a bigger version for 1 kg refill coils.
+CarbonoidSpool is designed for 850 g refill coils. I also made a bigger version for 1 kg refill coils.
 
 ![CarbonoidSpool](https://raw.githubusercontent.com/Carbonoid/CarbonoidSpool/master/Fotos/IMG_1536.jpg)
 
